@@ -90,6 +90,9 @@ for number in 1..15  do
     puts number
   end
 end
+
+ad
+
   # puts "数字を入力してください"
   # input=gets.to_i
   # puts '結果は...'
