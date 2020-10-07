@@ -87,7 +87,8 @@ for number in 1..15  do
   elsif number % 5 == 0
     puts"buzz"
   else
-    puts number
+    puts number 
+    date
   end
 end
 
